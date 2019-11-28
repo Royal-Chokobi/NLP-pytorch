@@ -28,8 +28,8 @@ windows 설치 참고 url : https://boogong.tistory.com/58
     3. 상단의 VCS 메뉴 -> Checkout from Version Control -> Git
 
 #### etc
-git관련해서 push error 발생시 (github push permission ~ )
-https://git-scm.com/book/ko/v2/Git-%EC%84%9C%EB%B2%84-SSH-%EA%B3%B5%EA%B0%9C%ED%82%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0
-해당 사이트에서 공개키 생성 후 GitHub에 등록.
-아래의 참고 사이트에서 키 생성 및 등록 방법 확인.
+git관련해서 push error 발생시 (github push permission ~ )<br/>
+https://git-scm.com/book/ko/v2/Git-%EC%84%9C%EB%B2%84-SSH-%EA%B3%B5%EA%B0%9C%ED%82%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0 <br/>
+해당 사이트에서 공개키 생성 후 GitHub에 등록.<br/>
+아래의 참고 사이트에서 키 생성 및 등록 방법 확인.<br/>
 https://recoveryman.tistory.com/283
